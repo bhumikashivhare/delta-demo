@@ -1,5 +1,4 @@
 # delta-demo
-This is Demo for Git &amp; Github class..
-its very privilage.
+This is Demo for Git &amp; Github class.
 and its my first github code.
 
